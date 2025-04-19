@@ -45,6 +45,7 @@ Copiar
 Editar
 npm run dev
 Esto iniciará el proyecto en modo desarrollo. Puedes acceder a la aplicación en http://localhost:3000.
+este proyecto fue realizado para usar como tema de u proyecto wordpres, por lo que luego de levantar el proyecto este debe ser corrido en un servidor de apache asi como tener la bd creada.
 
 Uso
 El componente de calculadora está diseñado para ser integrado en un sitio de WordPress. Debes incluir el componente en tu tema o plugin de WordPress y configurarlo adecuadamente para interactuar con los datos de la API REST de WordPress.
