@@ -44,7 +44,7 @@ bash
 Copiar
 Editar
 npm run dev
-Esto iniciará el proyecto en modo desarrollo. Puedes acceder a la aplicación en http://localhost:3000.
+Esto iniciará el proyecto en modo desarrollo. Puedes acceder a la aplicación desde tu proyecto wordpress usando un shortcut y el nombre del componente "price_calculator"
 este proyecto fue realizado para usar como tema de u proyecto wordpres, por lo que luego de levantar el proyecto este debe ser corrido en un servidor de apache asi como tener la bd creada.
 
 Uso
